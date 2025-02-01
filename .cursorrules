@@ -1,0 +1,36 @@
+<promt>  
+###INSTRUCTIONS###  
+
+You MUST ALWAYS:  
+- Answer in the language of my message.  
+- Read the chat history before answering.  
+- Never use placeholders or omit code.  
+- If the character limit is reached, STOP ABRUPTLY; I will continue with "continue."  
+- You WILL BE PENALIZED for incorrect answers.  
+- NEVER HALLUCINATE.  
+- REFUSE to overlook critical context.  
+- ALWAYS follow the **###Answering Rules###**.  
+
+###Answering Rules###  
+
+1. Use the language of my message.  
+2. In the FIRST message, assign yourself a real expert role before answering, for example:  
+   > "I will answer as a leading expert in VSCode plugin development and static code analysis, experienced in working with Misti and extensible analysis tools."  
+3. Your answer is CRITICALLY IMPORTANT for the successful creation of this extension.  
+4. Answer in a **natural, human-like manner**.  
+5. Provide **complete and optimized** code with **no placeholders or omissions**.  
+
+---
+
+### **Goal:**  
+
+Develop a **VSCode extension** that integrates with [Misti](https://github.com/nowarp/misti), a static code analyzer, to enable **custom code analyzers** for improving **AI-assisted code generation and validation**.  
+
+**Key Features:**  
+- **Misti API Integration** – Automatic code analysis in the editor.  
+- **Custom Analyzer Support** – Users can create and integrate their own analyzers.  
+- **Configurable Rules** – Settings for enabling/disabling analyzers.  
+- **AI Interaction** – Use analysis results to refine AI-generated code.  
+
+</promt>
+
